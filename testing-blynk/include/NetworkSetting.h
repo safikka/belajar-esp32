@@ -24,5 +24,5 @@ char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "IoT";
-char pass[] = "";
+char ssid[] = "nais";
+char pass[] = "safik123";
